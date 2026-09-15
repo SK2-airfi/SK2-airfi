@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 7+ years in DevOps and cloud infrastructure — Kubernetes, infrastructure as code, multi-cloud operations. These days I’m mostly building production AI tooling on AWS Bedrock with Claude: RAG pipelines, AI-assisted incident response, and the FinOps + Zero Trust guardrails that keep it trustworthy.
 
-🔗 [cv.theshubham.in](https://cv.theshubham.in/)
+* 🌍  I'm based in Gurugram
+* 🧠  I'm learning C++ and Embedded Systems
+* 🤝  I'm open to collaborating on Automation scripts • Embedded Linux tools • API integrations • Data-driven ops dashboards
+* ⚡  Linux is home. I like turning messy logs into insights — and servers into better versions of themselves.
 
  	•	🌍  Based in Gurugram, Haryana
 	•	🧠  Focused on AI Platform Operations (AWS Bedrock/Claude), FinOps, and Zero Trust IAM (Keycloak, OIDC/OAuth2)
